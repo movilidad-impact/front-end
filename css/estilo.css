@@ -1,0 +1,41 @@
+@charset "utf-8";
+body {
+  font-family: 'PT Serif', serif;
+  background-color: #00BAB9;
+}
+.container {
+
+}
+#logo {
+  width: 100%;
+  margin:0 auto;
+  padding: 3rem;
+}
+.cuadro {
+  width: 50%;
+  height: 50px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 30vh;
+}
+.boton-inicial {
+  background-color: #FFFFFF;
+}
+#map {
+  margin-top: 40vh;
+  height: 450px;
+  border-radius: 5px;
+}
+.card {
+  width: 18rem;
+  font-family: 'Anton', sans-serif;
+}
+
+
+.page-footer {
+  background-color: #1c1c1c;
+  color: #eeeeee;
+}
+.footer-copyright {
+  background-color: #000000;
+}
