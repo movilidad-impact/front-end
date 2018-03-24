@@ -29,11 +29,18 @@ body {
 .card {
   width: 18rem;
   font-family: 'Anton', sans-serif;
+  margin-top: 25px;
 }
-
-
+.pictograma {
+  height: 250px;
+  padding-top: 10px;
+}
+.card-text {
+  font-size: 2em;
+  color: #223A54;
+}
 .page-footer {
-  background-color: #1c1c1c;
+  background-color: #223A54;
   color: #eeeeee;
 }
 .footer-copyright {
